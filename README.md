@@ -77,7 +77,7 @@ Users can track their orders history only.
 ![alt text](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Logo Title Text 1")
 
 ### How To Write Templates
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
+Read in our wiki - (https://github.com/MARIOALDIPUTRA/-Ecommerce-CodeIgniter-Bootstrap/wiki)
 
 ### Shopping cart peculiarities
 Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
